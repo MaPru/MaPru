@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaPru
+- 👋 Hi, I’m @Kwanie
 - 👀 I’m interested in learning data science and git
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing as yet
